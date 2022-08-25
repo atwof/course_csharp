@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/bin/Debug/net6.0/interface_content
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/bin/Debug/net6.0/interface_content.deps.json
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/bin/Debug/net6.0/interface_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/bin/Debug/net6.0/interface_content.dll
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/bin/Debug/net6.0/interface_content.pdb
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.dll
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/refint/interface_content.dll
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.pdb
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/interface_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/interface_content/interface_content/obj/Debug/net6.0/ref/interface_content.dll

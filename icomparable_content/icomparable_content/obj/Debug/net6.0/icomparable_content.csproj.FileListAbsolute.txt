@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/bin/Debug/net6.0/icomparable_content
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/bin/Debug/net6.0/icomparable_content.deps.json
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/bin/Debug/net6.0/icomparable_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/bin/Debug/net6.0/icomparable_content.dll
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/bin/Debug/net6.0/icomparable_content.pdb
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.dll
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/refint/icomparable_content.dll
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.pdb
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/icomparable_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/icomparable_content/icomparable_content/obj/Debug/net6.0/ref/icomparable_content.dll

@@ -1,7 +1,9 @@
 ﻿using System;
+using interface_content.Entities;
+
 namespace interface_content.Devices
 {
-    public class Scanner : Device
+    public class Scanner : Device, IScanner
     {
         public override void ProcessDoc(string document)
         {

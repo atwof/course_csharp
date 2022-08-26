@@ -23,3 +23,8 @@ printer.Print("My letter");
 Scanner scanner = new Scanner() { SerialNumber = 2000 };
 scanner.ProcessDoc("My email");
 Console.WriteLine(scanner.Scan());
+
+ComboDevice combo = new ComboDevice() { SerialNumber = 3921 };
+combo.ProcessDoc("My dissertation");
+combo.Print("My dissertation");
+Console.WriteLine(combo.Scan());

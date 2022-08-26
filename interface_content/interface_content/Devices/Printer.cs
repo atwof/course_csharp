@@ -1,7 +1,9 @@
 ﻿using System;
+using interface_content.Entities;
+
 namespace interface_content.Devices
 {
-    public class Printer : Device
+    public class Printer : Device, IPrinter
     {
         public override void ProcessDoc(string document)
         {

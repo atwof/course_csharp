@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{31AA520D-3F50-4DAC-9355-8149A19551B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="interface_content/solucao_sem_interface.cs">
+    <Files>
+      <File FileName="interface_content/solucao_sem_interface.cs" Line="16" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="interface_content" expanded="True">
+            <Node name="interface_content" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="solucao_sem_interface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.interface__content FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.interface__content PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

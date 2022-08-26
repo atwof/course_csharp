@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/bin/Debug/net6.0/interface_exercise
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/bin/Debug/net6.0/interface_exercise.deps.json
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/bin/Debug/net6.0/interface_exercise.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/bin/Debug/net6.0/interface_exercise.dll
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/bin/Debug/net6.0/interface_exercise.pdb
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.dll
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/refint/interface_exercise.dll
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.pdb
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/interface_exercise.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/interface_exercise/interface_exercise/obj/Debug/net6.0/ref/interface_exercise.dll

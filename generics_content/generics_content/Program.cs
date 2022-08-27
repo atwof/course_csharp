@@ -66,9 +66,8 @@ Console.WriteLine("Hashcode C1: " + hashC1);
 Console.WriteLine("Hashcode C2: " + hashC2);
 
 Console.WriteLine("Compare hash: " + hashC1.Equals(hashC2));
-*/
 
-// HashSet e SortedSet
+// HashSet e SortedSet - Parte 1
 HashSet<string> set = new HashSet<string>();
 
 set.Add("TV");
@@ -80,4 +79,37 @@ Console.WriteLine(set.Contains("Notebook"));
 foreach (string x in set)
 {
     Console.WriteLine(x);
+}
+*/
+
+SortedSet<int> a = new SortedSet<int>() { 1, 2, 3, 4, 5 };
+SortedSet<int> b = new SortedSet<int>() { 1, 7, 4, 9, 3 };
+
+PrintCollection(a);
+
+// union
+SortedSet<int> c = new SortedSet<int>(a);
+c.UnionWith(b);
+PrintCollection(c);
+
+// intersection - Somente o que há em ambos os conjuntos
+SortedSet<int> d = new SortedSet<int>(a);
+d.IntersectWith(b);
+
+PrintCollection(d);
+
+// difference - Somente aquilo que não há em um dos hash
+SortedSet<int> e = new SortedSet<int>(a);
+e.ExceptWith(b);
+
+PrintCollection(e);
+
+
+static void PrintCollection<T>(IEnumerable<T> collection)
+{
+    foreach (T x in collection)
+    {
+        Console.Write(x + " ");
+    }
+    Console.WriteLine();
 }

@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/bin/Debug/net6.0/generics_content
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/bin/Debug/net6.0/generics_content.deps.json
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/bin/Debug/net6.0/generics_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/bin/Debug/net6.0/generics_content.dll
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/bin/Debug/net6.0/generics_content.pdb
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.dll
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/refint/generics_content.dll
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.pdb
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/generics_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/generics_content/generics_content/obj/Debug/net6.0/ref/generics_content.dll

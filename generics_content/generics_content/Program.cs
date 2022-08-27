@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Collections.Generic;
 using Services;
 using Entities;
 
@@ -38,7 +39,6 @@ CalculationService calculationService = new CalculationService();
 Product max = calculationService.Max(list);
 
 Console.WriteLine("Max: " + max);
-*/
 
 // Equals e HashCode
 string a = "Alisson ";
@@ -66,3 +66,18 @@ Console.WriteLine("Hashcode C1: " + hashC1);
 Console.WriteLine("Hashcode C2: " + hashC2);
 
 Console.WriteLine("Compare hash: " + hashC1.Equals(hashC2));
+*/
+
+// HashSet e SortedSet
+HashSet<string> set = new HashSet<string>();
+
+set.Add("TV");
+set.Add("Notebook");
+set.Add("Tablet");
+
+Console.WriteLine(set.Contains("Notebook"));
+
+foreach (string x in set)
+{
+    Console.WriteLine(x);
+}

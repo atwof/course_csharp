@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{9778C96D-E766-4897-8F29-1534581B806C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="generics_content/Program.cs">
+    <Files>
+      <File FileName="generics_content/Program.cs" Line="6" Column="34" />
+      <File FileName="generics_content/Services/PrintService.cs" Line="28" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="generics_content" expanded="True">
+            <Node name="generics_content" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.generics__content FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.generics__content PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

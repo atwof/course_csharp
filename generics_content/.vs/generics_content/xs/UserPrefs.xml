@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{9778C96D-E766-4897-8F29-1534581B806C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="generics_content/Program.cs">
     <Files>
-      <File FileName="generics_content/Program.cs" Line="6" Column="34" />
-      <File FileName="generics_content/Services/PrintService.cs" Line="28" Column="31" />
+      <File FileName="generics_content/Program.cs" Line="13" Column="1" />
+      <File FileName="generics_content/Services/CalculationService.cs" Line="7" Column="18" />
+      <File FileName="generics_content/Entities/Procut.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="generics_content" expanded="True">
             <Node name="generics_content" expanded="True">
+              <Node name="Entities" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
           </Node>
@@ -19,11 +22,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.generics__content PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.generics__content PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

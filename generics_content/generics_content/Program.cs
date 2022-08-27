@@ -1,12 +1,13 @@
 ﻿using Services;
 
-PrintService printService = new PrintService();
+PrintService<string> printService = new PrintService<string>();
+
 Console.Write("How many values? ");
 int x = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < x; i++)
 {
-    int n = int.Parse(Console.ReadLine());
+    string n = Console.ReadLine();
     printService.AddValue(n);
 }
 

@@ -1,14 +1,15 @@
 ﻿using Services;
 
+PrintServiceString printServiceString = new PrintServiceString();
 PrintService printService = new PrintService();
 Console.Write("How many values? ");
 int x = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < x; i++)
 {
-    int n = int.Parse(Console.ReadLine());
-    printService.AddValue(n);
+    string n = Console.ReadLine();
+    printServiceString.AddValue(n);
 }
 
-printService.Print();
-Console.WriteLine("First: " + printService.First());
+printServiceString.Print();
+Console.WriteLine("First: " + printServiceString.First());

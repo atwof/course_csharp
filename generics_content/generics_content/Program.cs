@@ -80,7 +80,6 @@ foreach (string x in set)
 {
     Console.WriteLine(x);
 }
-*/
 
 SortedSet<int> a = new SortedSet<int>() { 1, 2, 3, 4, 5 };
 SortedSet<int> b = new SortedSet<int>() { 1, 7, 4, 9, 3 };
@@ -113,3 +112,31 @@ static void PrintCollection<T>(IEnumerable<T> collection)
     }
     Console.WriteLine();
 }
+
+HashSet<ProductHash> a = new HashSet<ProductHash>();
+a.Add(new ProductHash("TV", 900));
+a.Add(new ProductHash("Notebook", 1200));
+
+HashSet<Point> b = new HashSet<Point>();
+b.Add(new Point(1,2));
+b.Add(new Point(3, 4));
+
+ProductHash prod = new ProductHash("TV", 900);
+Point p = new Point(1, 2);
+
+// Compara a referência - Classe
+Console.WriteLine(a.Contains(prod));
+
+// Compara os valores - Struct
+Console.WriteLine(b.Contains(p));
+
+*/
+
+// Atividade de leitura de arquivo
+
+string path = @"/Users/alissonf/Desktop/in.txt";
+Arquivo a = new Arquivo();
+a.LerArquivo(path);
+a.MostrarArquivoLidoSemRepeticao();
+a.MostrarTodasAsLinhasLidas();
+Console.WriteLine("Total de registros do arquivo: " + a.TotalRegistrosDistintos());

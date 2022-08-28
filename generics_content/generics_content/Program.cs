@@ -130,8 +130,6 @@ Console.WriteLine(a.Contains(prod));
 // Compara os valores - Struct
 Console.WriteLine(b.Contains(p));
 
-*/
-
 // Atividade de leitura de arquivo
 
 string path = @"/Users/alissonf/Desktop/in.txt";
@@ -140,3 +138,25 @@ a.LerArquivo(path);
 a.MostrarArquivoLidoSemRepeticao();
 a.MostrarTodasAsLinhasLidas();
 Console.WriteLine("Total de registros do arquivo: " + a.TotalRegistrosDistintos());
+
+*/
+
+// Exercício proposto
+
+Professor p = new Professor("Alisson");
+Console.Write("Digite a quantidade de cursos: ");
+int x = int.Parse(Console.ReadLine());
+
+for (int i = 0; i < x; i++)
+{
+    Console.Write("Digite a quantidade de alunos do curso " + i + ": ");
+    int qtdeAlunos = int.Parse(Console.ReadLine());
+
+    for (int j = 0; j < qtdeAlunos; j++)
+    {
+        int aluno = int.Parse(Console.ReadLine());
+        p.AdicionarAluno(aluno);
+    }
+}
+
+Console.WriteLine("Total de alunos do professor " + p.Name + ": " + p.RetornarTotalDeAlunos());

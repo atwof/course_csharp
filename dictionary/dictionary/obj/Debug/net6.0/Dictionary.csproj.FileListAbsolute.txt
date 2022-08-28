@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/bin/Debug/net6.0/Dictionary
+/Users/alissonf/Projects/course_csharp/dictionary/Dictionary/bin/Debug/net6.0/Dictionary.deps.json
+/Users/alissonf/Projects/course_csharp/dictionary/Dictionary/bin/Debug/net6.0/Dictionary.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/bin/Debug/net6.0/Dictionary.dll
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/bin/Debug/net6.0/Dictionary.pdb
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.dll
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/refint/Dictionary.dll
+/Users/alissonf/Projects/course_csharp/dictionary/dictionary/obj/Debug/net6.0/Dictionary.pdb
+/Users/alissonf/Projects/course_csharp/dictionary/Dictionary/obj/Debug/net6.0/Dictionary.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/dictionary/Dictionary/obj/Debug/net6.0/ref/Dictionary.dll

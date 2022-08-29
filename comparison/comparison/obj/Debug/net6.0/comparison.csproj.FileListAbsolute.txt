@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/comparison/comparison/bin/Debug/net6.0/comparison
+/Users/alissonf/Projects/course_csharp/comparison/comparison/bin/Debug/net6.0/comparison.deps.json
+/Users/alissonf/Projects/course_csharp/comparison/comparison/bin/Debug/net6.0/comparison.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/comparison/comparison/bin/Debug/net6.0/comparison.dll
+/Users/alissonf/Projects/course_csharp/comparison/comparison/bin/Debug/net6.0/comparison.pdb
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.dll
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/refint/comparison.dll
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.pdb
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/comparison.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/comparison/comparison/obj/Debug/net6.0/ref/comparison.dll

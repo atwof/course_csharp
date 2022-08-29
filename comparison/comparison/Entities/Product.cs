@@ -2,7 +2,7 @@
 
 namespace Entities
 {
-    public class Product : IComparable<Product>
+    public class Product
     {
         public string Name { get; set; }
         public double Price { get; set; }
@@ -16,12 +16,6 @@ namespace Entities
         public override string ToString()
         {
             return Name + ", " + Price.ToString("F2", CultureInfo.InvariantCulture);
-        }
-
-        public int CompareTo(Product other)
-        {
-            //return Name.ToUpper().CompareTo(other.Name.ToUpper());
-            return Price.CompareTo(other.Price);
         }
     }
 }

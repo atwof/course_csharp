@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/lambda/lambda/bin/Debug/net6.0/lambda
+/Users/alissonf/Projects/course_csharp/lambda/lambda/bin/Debug/net6.0/lambda.deps.json
+/Users/alissonf/Projects/course_csharp/lambda/lambda/bin/Debug/net6.0/lambda.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/lambda/lambda/bin/Debug/net6.0/lambda.dll
+/Users/alissonf/Projects/course_csharp/lambda/lambda/bin/Debug/net6.0/lambda.pdb
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.dll
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/refint/lambda.dll
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.pdb
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/lambda.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/lambda/lambda/obj/Debug/net6.0/ref/lambda.dll

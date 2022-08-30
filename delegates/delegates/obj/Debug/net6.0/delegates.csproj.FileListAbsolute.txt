@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/delegates/delegates/bin/Debug/net6.0/delegates
+/Users/alissonf/Projects/course_csharp/delegates/delegates/bin/Debug/net6.0/delegates.deps.json
+/Users/alissonf/Projects/course_csharp/delegates/delegates/bin/Debug/net6.0/delegates.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/delegates/delegates/bin/Debug/net6.0/delegates.dll
+/Users/alissonf/Projects/course_csharp/delegates/delegates/bin/Debug/net6.0/delegates.pdb
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.dll
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/refint/delegates.dll
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.pdb
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/delegates.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/delegates/delegates/obj/Debug/net6.0/ref/delegates.dll

@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/bin/Debug/net6.0/multiCastDelegate
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/bin/Debug/net6.0/multiCastDelegate.deps.json
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/bin/Debug/net6.0/multiCastDelegate.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/bin/Debug/net6.0/multiCastDelegate.dll
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/bin/Debug/net6.0/multiCastDelegate.pdb
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.dll
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/refint/multiCastDelegate.dll
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.pdb
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/multiCastDelegate.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/multiCastDelegate/multiCastDelegate/obj/Debug/net6.0/ref/multiCastDelegate.dll

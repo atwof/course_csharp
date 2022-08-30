@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/bin/Debug/net6.0/predicate_content
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/bin/Debug/net6.0/predicate_content.deps.json
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/bin/Debug/net6.0/predicate_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/bin/Debug/net6.0/predicate_content.dll
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/bin/Debug/net6.0/predicate_content.pdb
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.dll
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/refint/predicate_content.dll
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.pdb
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/predicate_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/predicate_content/predicate_content/obj/Debug/net6.0/ref/predicate_content.dll

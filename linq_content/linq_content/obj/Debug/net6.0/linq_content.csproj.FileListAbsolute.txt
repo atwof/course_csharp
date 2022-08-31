@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/bin/Debug/net6.0/linq_content
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/bin/Debug/net6.0/linq_content.deps.json
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/bin/Debug/net6.0/linq_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/bin/Debug/net6.0/linq_content.dll
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/bin/Debug/net6.0/linq_content.pdb
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.dll
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/refint/linq_content.dll
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.pdb
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/linq_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/linq_content/linq_content/obj/Debug/net6.0/ref/linq_content.dll

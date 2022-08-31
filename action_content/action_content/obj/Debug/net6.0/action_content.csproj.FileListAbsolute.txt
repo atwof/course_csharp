@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/action_content/action_content/bin/Debug/net6.0/action_content
+/Users/alissonf/Projects/course_csharp/action_content/action_content/bin/Debug/net6.0/action_content.deps.json
+/Users/alissonf/Projects/course_csharp/action_content/action_content/bin/Debug/net6.0/action_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/action_content/action_content/bin/Debug/net6.0/action_content.dll
+/Users/alissonf/Projects/course_csharp/action_content/action_content/bin/Debug/net6.0/action_content.pdb
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.dll
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/refint/action_content.dll
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.pdb
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/action_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/action_content/action_content/obj/Debug/net6.0/ref/action_content.dll

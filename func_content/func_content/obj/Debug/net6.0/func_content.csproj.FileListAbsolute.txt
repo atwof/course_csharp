@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/func_content/func_content/bin/Debug/net6.0/func_content
+/Users/alissonf/Projects/course_csharp/func_content/func_content/bin/Debug/net6.0/func_content.deps.json
+/Users/alissonf/Projects/course_csharp/func_content/func_content/bin/Debug/net6.0/func_content.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/func_content/func_content/bin/Debug/net6.0/func_content.dll
+/Users/alissonf/Projects/course_csharp/func_content/func_content/bin/Debug/net6.0/func_content.pdb
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.dll
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/refint/func_content.dll
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.pdb
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/func_content.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/func_content/func_content/obj/Debug/net6.0/ref/func_content.dll

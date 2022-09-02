@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{A4C8F643-6B5E-4EAC-B5BB-B4FDBAE086CD}|Default">
-  <MonoDevelop.Ide.ItemProperties.linq__references FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.linq__references PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="linq_references/Program.cs">
+    <Files>
+      <File FileName="linq_references/Program.cs" Line="71" Column="53" />
+      <File FileName="linq_references/Entities/Product.cs" Line="18" Column="34" />
+      <File FileName="linq_references/Entities/Category.cs" Line="8" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="linq_references" expanded="True">
+            <Node name="linq_references" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

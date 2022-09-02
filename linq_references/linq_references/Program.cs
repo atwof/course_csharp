@@ -46,6 +46,37 @@ Console.WriteLine("SINGLE OR DEFAULT: " + r8);
 var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
 Console.WriteLine("SINGLE OR DEFAULT [NULL]: " + r9);
 
+var r10 = products.Max(p => p.Price);
+Console.WriteLine("MAX PRICE: " + r10);
+
+var r11 = products.Min(p => p.Price);
+Console.WriteLine("MIN PRICE: " + r11);
+
+var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+Console.WriteLine("CATEGORY SUM PRICES: " + r12);
+
+var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+Console.WriteLine("CATEGORY 1 AVERAGE PRICES: " + r13);
+
+var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty().Average();
+Console.WriteLine("CATEGORY 5 AVERAGE PRICES: " + r14);
+
+var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0,(x, y) => x + y);
+Console.WriteLine("CATEGORY 1 AND AGGREGATE SUM: " + r15);
+Console.WriteLine();
+
+var r16 = products.GroupBy(p => p.Category);
+foreach (IGrouping<Category, Product> group in r16)
+{
+    Console.WriteLine("CATERGORY: " + group.Key.Name);
+    foreach (Product p in group)
+    {
+        Console.WriteLine(p);
+    }
+    Console.WriteLine();
+}
+
+// FUNÇÃO PARA EXIBIR A LISTA
 static void Print<T>(string message, IEnumerable<T> collection)
 {
     Console.WriteLine(message);

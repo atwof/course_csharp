@@ -1,0 +1,15 @@
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/bin/Debug/net6.0/excercicio_linq_final
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/bin/Debug/net6.0/excercicio_linq_final.deps.json
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/bin/Debug/net6.0/excercicio_linq_final.runtimeconfig.json
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/bin/Debug/net6.0/excercicio_linq_final.dll
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/bin/Debug/net6.0/excercicio_linq_final.pdb
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.csproj.AssemblyReference.cache
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.AssemblyInfoInputs.cache
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.AssemblyInfo.cs
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.csproj.CoreCompileInputs.cache
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.dll
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/refint/excercicio_linq_final.dll
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.pdb
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/excercicio_linq_final.genruntimeconfig.cache
+/Users/alissonf/Projects/course_csharp/excercicio_linq_final/excercicio_linq_final/obj/Debug/net6.0/ref/excercicio_linq_final.dll
